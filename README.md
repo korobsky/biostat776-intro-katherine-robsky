@@ -2,6 +2,6 @@
 Statistical Programming Project 0
 
 
-This website contains a short introduction of Katherine Katherine Robsky
+This website contains a short introduction of Katherine Robsky
 
 
